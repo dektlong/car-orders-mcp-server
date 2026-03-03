@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# Logs
+*.txt
+logs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Spring Boot packaged jars
+*.jar
+*.war
+*.ear
